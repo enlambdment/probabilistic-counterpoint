@@ -1,1 +1,1 @@
-# euterpea-scratch-project
+# probabilistic-counterpoint
