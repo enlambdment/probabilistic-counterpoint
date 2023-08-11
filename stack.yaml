@@ -1,0 +1,11 @@
+resolver:
+  url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/19/13.yaml
+
+packages:
+- .
+
+extra-deps:
+- Euterpea-2.0.7@sha256:a885d2f3e82680284a85822d1f1b0e39ae44afbd50e61bf92e38ddbc7694b3b9,2683
+- PortMidi-0.2.0.0@sha256:0671e36ec72e95138bf396234b205864a8a6d0ee353e09e01cbfd57004c56f40,2383
+
+allow-newer: true
